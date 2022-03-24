@@ -62,7 +62,7 @@ The urban economics lens
 
 [Central Trading and Development Group](http://www.saigonsouth.com/ ), 2004.
 
-DiPasquale, Denise, and William C. Wheaton. "Market for Real Estate Assets and Space: A Conceptual Framework." _Journal of the American Real Estate and Urban Economics Association_ 20, no. 1 (1992): 181-97. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.5MB](http://www.unibg.it/dati/corsi/60002/37673-DiPasquale-Wheaton.pdf))
+DiPasquale, Denise, and William C. Wheaton. "Market for Real Estate Assets and Space: A Conceptual Framework." _Journal of the American Real Estate and Urban Economics Association_ 20, no. 1 (1992): 181-97. ([PDF - 3.5MB](http://www.unibg.it/dati/corsi/60002/37673-DiPasquale-Wheaton.pdf))
 
 Demsetz, Harold. "[Toward a Theory of Property Rights](http://www.jstor.org/pss/1821637)." _American Economic Review_ 57, no. 2 (May 1967): 347-59.
 
@@ -132,7 +132,7 @@ Ellickson, Robert C. _Order Without Law: How Neighbors Settle Disputes_. Harvard
 
 Acheson, James M. _The Lobster Gangs of Maine_." UPNE, 1988, pp. 129-35. ISBN: 9780874514513. \[Preview with [Google Books](http://books.google.com/books?id=u0XJno-q0_IC&pg=PAfrontcover)\]
 
-Rose, Carol M. "Property As Storytelling: Perspectives from Game Theory, Narrative Theory, Feminist Theory." _Yale Law Journal_ 2 (1990): 37-57. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=2821&context=fss_papers&sei-redir=1&referer=http%3A%2F%2Fwww.google.co.in%2Furl%3Fsa%3Dt%26source%3Dweb%26cd%3D1%26ved%3D0CCAQFjAA%26url%3Dhttp%253A%252F%252Fdigitalcommons.law.yale.edu%252Fcgi%252Fviewcontent.cgi%253Farticle%253D2821%2526context%253Dfss_papers%26rct%3Dj%26q%3DProperty%2520As%2520Storytelling%253A%2520Perspectives%2520from%2520Game%2520Theory%252C%2520Narrative%2520Theory%252C%2520Feminist%2520Theory%26ei%3DePGbTvGBFoWGrAfj37WABA%26usg%3DAFQjCNHMBhrOa-INtim-BiGz6uD2S6JZWw%26cad%3Drja#search=%22Property%20As%20Storytelling%3A%20Perspectives%20from%20Game%20Theory%2C%20Narrative%20Theory%2C%20Feminist%20Theory%22))
+Rose, Carol M. "Property As Storytelling: Perspectives from Game Theory, Narrative Theory, Feminist Theory." _Yale Law Journal_ 2 (1990): 37-57. ([PDF - 1.2MB](http://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=2821&context=fss_papers&sei-redir=1&referer=http%3A%2F%2Fwww.google.co.in%2Furl%3Fsa%3Dt%26source%3Dweb%26cd%3D1%26ved%3D0CCAQFjAA%26url%3Dhttp%253A%252F%252Fdigitalcommons.law.yale.edu%252Fcgi%252Fviewcontent.cgi%253Farticle%253D2821%2526context%253Dfss_papers%26rct%3Dj%26q%3DProperty%2520As%2520Storytelling%253A%2520Perspectives%2520from%2520Game%2520Theory%252C%2520Narrative%2520Theory%252C%2520Feminist%2520Theory%26ei%3DePGbTvGBFoWGrAfj37WABA%26usg%3DAFQjCNHMBhrOa-INtim-BiGz6uD2S6JZWw%26cad%3Drja#search=%22Property%20As%20Storytelling%3A%20Perspectives%20from%20Game%20Theory%2C%20Narrative%20Theory%2C%20Feminist%20Theory%22))
 
 Pipes, Richard. "[Human Nature and the Fall of Communism](http://www.jstor.org/pss/3824382)." _Bulletin of the American Academy of Arts and Sciences_ 49 (1996): 38-52.
 
@@ -292,17 +292,17 @@ Land titling and regularization
 
 Soto, Hernando de.  _The Mystery of Capital: Why Capitalism Triumphs in the West and Fails Everywhere Else_. New York: Basic Books, 2000. Chapters 3 and 6. ISBN: 9780465016143.
 
-World Bank. _Housing: Enabling Markets to Work_, 1993. ISBN: 9780821324349. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 9.1MB](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2002/02/27/000178830_98101911194018/Rendered/PDF/multi0page.pdf))
+World Bank. _Housing: Enabling Markets to Work_, 1993. ISBN: 9780821324349. ([PDF - 9.1MB](http://www-wds.worldbank.org/external/default/WDSContentServer/WDSP/IB/2002/02/27/000178830_98101911194018/Rendered/PDF/multi0page.pdf))
 
-Hull, Matthew S. "Ruled by Records: The Expropriation of Land and the Misappropriation of Lists in Islamabad." _American Ethnologist_ 35, no. 4 (2008): 501-18. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://deepblue.lib.umich.edu/bitstream/2027.42/75363/1/j.1548-1425.2008.00095.x.pdf))
+Hull, Matthew S. "Ruled by Records: The Expropriation of Land and the Misappropriation of Lists in Islamabad." _American Ethnologist_ 35, no. 4 (2008): 501-18. ([PDF](http://deepblue.lib.umich.edu/bitstream/2027.42/75363/1/j.1548-1425.2008.00095.x.pdf))
 
-Kim, Annette M. "North Versus South: The Impact of Social Norms in the Market Pricing of Private Property Rights in Vietnam." _World Development_ 35, no. 12 (2007): 2079-95. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://viet-studies.info/kinhte/North_South_Pricing_Private_Property_WD.pdf))
+Kim, Annette M. "North Versus South: The Impact of Social Norms in the Market Pricing of Private Property Rights in Vietnam." _World Development_ 35, no. 12 (2007): 2079-95. ([PDF](http://viet-studies.info/kinhte/North_South_Pricing_Private_Property_WD.pdf))
 
 ### Optional Reading
 
 Buckley, Robert M., and Jerry Kalarickal. _Thirty Years of World Bank Shelter Lending: What Have We Learned? (Directions in Development)_. Washington D.C.: World Bank, 2006. ISBN: 9780821365779. \[Preview with [Google Books](http://books.google.com/books?id=LQvHOW78hrIC&pg=Pafrontcover)\]
 
-(For those interested in a Word Bank perspective on the recent history of shelter programs) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://siteresources.worldbank.org/INTHOUSINGLAND/Resources/339552-1153163100518/Thirty_Years_Shelter_Lending.pdf))
+(For those interested in a Word Bank perspective on the recent history of shelter programs) ([PDF](http://siteresources.worldbank.org/INTHOUSINGLAND/Resources/339552-1153163100518/Thirty_Years_Shelter_Lending.pdf))
 
 "The Challenge of Scale–Nationwide Upgrading." Cities Alliance Annual Report, 2003.
 
@@ -336,7 +336,7 @@ Medoff, Peter, and Holly Sklar.  in _Streets of Hope: The Fall and Rise of an U
 
 Yahya, Saad S. "Community Land Trusts and Other Tenure Innovations in Kenya." In _Land, Rights and Innovation: Improving Tenure Security for the Urban Poor (Urban Management Series)_. Edited by Geoffery K. Payne. London: ITDG Publishing, 2002, pp. 233-63. ISBN:9781853395444.
 
-Davis, John Emmeus. "Shared Equity Homeownership: The Changing Landscape of Resale-Restricted, Owner-Occupied Housing." National Housing Institute, 2007.  (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](http://www.nhi.org/pdf/SharedEquityHome.pdf))
+Davis, John Emmeus. "Shared Equity Homeownership: The Changing Landscape of Resale-Restricted, Owner-Occupied Housing." National Housing Institute, 2007.  ([PDF - 1.2MB](http://www.nhi.org/pdf/SharedEquityHome.pdf))
 
 
 {{< tdclose >}}
